@@ -1,1 +1,1 @@
-# photogalerie
+# Interactive-Photo-Gallery
